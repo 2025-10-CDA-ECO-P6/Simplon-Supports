@@ -21,8 +21,8 @@ Ce hub central regroupe tous les dépôts pédagogiques, ateliers et ressources 
 ## 🧠 Conception & Analyse Fonctionnelle
 
 - [Use Case UML — structurer un scénario utilisateur](https://github.com/2025-10-CDA-ECO-P6/Simplon-Supports/blob/main/conception/use_case.md)
-- [Diagramme de Use Case UML — cadrer les interactions métier](https://github.com/2025-10-CDA-ECO-P6/Simplon-Supports/blob/main/conception/use_case_uml.md)
 - [Dictionnaire de Données — cartographier les informations clés](https://github.com/2025-10-CDA-ECO-P6/Simplon-Supports/blob/main/conception/dictionnaire_donnees.md)
+- [MCD Merise — modéliser les entités et relations métier](https://github.com/2025-10-CDA-ECO-P6/Simplon-Supports/blob/main/conception/mcd_merise.md)
 
 ---
 
